@@ -1,5 +1,7 @@
 AI Resume Builder
+
 A full‑stack AI-powered resume builder that allows users to create, enhance, preview, download, and share professional resumes online.
+
 
 🚀 Features
 User authentication (Signup/Login)
