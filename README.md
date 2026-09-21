@@ -4,6 +4,7 @@ A full‑stack AI-powered resume builder that allows users to create, enhance, p
 
 
 🚀 Features
+
 User authentication (Signup/Login)
 Create multiple resumes
 Live resume preview
